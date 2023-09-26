@@ -7,7 +7,7 @@
 <!-- Body -->
 
 ### Tech Skills
-**🧑‍💻 Lang and Frameworks**
+**🧑‍💻 Lang and Frameworks**<br>
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
